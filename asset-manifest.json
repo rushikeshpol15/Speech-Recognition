@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Speech-Recognition/static/css/main.24e9c3a5.css",
+    "main.js": "/Speech-Recognition/static/js/main.8f45af4c.js",
+    "static/js/787.e779cae8.chunk.js": "/Speech-Recognition/static/js/787.e779cae8.chunk.js",
+    "static/media/mic.png": "/Speech-Recognition/static/media/mic.bbc431c5bdd85ec034f4.png",
+    "static/media/mic off.png": "/Speech-Recognition/static/media/mic off.f6524ab228fb7b7ffc0f.png",
+    "static/media/Clipboard.png": "/Speech-Recognition/static/media/Clipboard.e5cc119bd13e8d02a0a5.png",
+    "static/media/body Background.jpg": "/Speech-Recognition/static/media/body Background.31d6aafc4f246260278d.jpg",
+    "static/media/logo.svg": "/Speech-Recognition/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Speech-Recognition/index.html",
+    "main.24e9c3a5.css.map": "/Speech-Recognition/static/css/main.24e9c3a5.css.map",
+    "main.8f45af4c.js.map": "/Speech-Recognition/static/js/main.8f45af4c.js.map",
+    "787.e779cae8.chunk.js.map": "/Speech-Recognition/static/js/787.e779cae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e9c3a5.css",
+    "static/js/main.8f45af4c.js"
+  ]
+}
